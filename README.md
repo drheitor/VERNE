@@ -1,2 +1,2 @@
 # VERNE
-Voigt fitting to derive Ew and Rv using Normalised spEctra
+Voigt fitting code to derive Ew and Rv using Normalised spEctra
